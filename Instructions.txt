@@ -1,0 +1,36 @@
+AMSE University had conducted a controlled test to see how various conditions affect the
+ability of a subject to solve a given problem. The aim of the study was to see if a few
+seemingly unrelated conditions could affect the willingness of a person to take up and
+solve a challenge.
+For a given period a testing room was open to anyone and everyone in the campus to
+come in and try their luck. The only condition laid was that the participants would have to
+consume a drink every hour while in the room where the puzzles were kept. This drink had
+various concentration of 4 Solutions A, B, C and D. Solution A was sugar syrup, solution B,
+C and D were red, blue and green food color respectively. The different concentration of
+the food color would change the effective color of the drink and the sugar syrup
+concentration would change the taste. Participants had no clue about the actual contents
+of the drinks they were given. The room also had ambient white noise along with controlled
+level of humidity. The concentration of the four solutions along with the decibel rating of the
+white noise and the relative humidity has been provided in the file ‘Test_conditions.csv’.
+Note that between the given period rooms were kept open 24/7. So a participant could
+have had entered a room while conditions for Batch X were active and complete the
+puzzle when the conditions for next batch — Batch B was active.
+The problem given to the participants were level 2 Sudoku puzzles. Numbers around the
+attempts and success are given in the file ‘Sudoku_attemps.csv’
+
+Task:
+1. Perform EDA on the given data
+1. Look for how various conditions are related to the acceptance and success rate
+2. Look for other insights from the data and draw conclusions.
+3. Any format is acceptable – Graphs/Charts, heatmaps, tables and even simple
+sentences
+2. Use any ML technique of your choice and try to predict the possibility of successful
+completion of the puzzle given a certain condition.
+1. Draw conclusions
+
+Important Notes:
+1. Do not share the details of this test anywhere, do not post links, share code on
+GitHub etc
+2. There is no one correct answer to any problem and if there is, we are not looking
+for it. Come up with whatever you feel is necessary.
+3. Make assumptions wherever necessary, and state them.
